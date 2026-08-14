@@ -11,7 +11,12 @@
         "GitHub.copilot",
         "GitHub.copilot-chat",
         "ritwickdey.LiveServer"
-      ]
+      ],
+      "settings": {
+        "terminal.integrated.enableMultiLinePasteWarning": false,
+        "terminal.integrated.rightClickBehavior": "paste",
+        "terminal.integrated.middleClickBehavior": "paste"
+      }
     },
     "codespaces": {
       "repositories": {
